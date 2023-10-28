@@ -5,7 +5,9 @@ Tarea 2: Redes Neuronales, Introducción a la Inteligencia Aritificial - COM4402
 Cristopher Acevedo Guajardo
 
 Para utilizar el código y verificar los resultados que fueron presentados en el informe, sólo se debe cambiar la estructura/modelo de la red neuronal.
-Para esto, se deben cambiar los parámetros según sea necesario:
+Para esto, se deben cambiar los parámetros según sea necesario.
+
+(El código también puede ser encontrado en este link de Google Colab: https://colab.research.google.com/drive/18JkbzFFQPkbkjd0ZP4vX3GMkgYO2jgrw?usp=sharing)
 
 Modelo para una red de una capa oculta y 10 neuronas ocultas, con función de activación ReLU o Tanh (cambiar el parámetro nn.ReLU() por nn.Tanh() en el código para cambiar la función de activación)
 
