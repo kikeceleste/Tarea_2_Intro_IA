@@ -6,6 +6,7 @@ Cristopher Acevedo Guajardo
 
 Para utilizar el código y verificar los resultados que fueron presentados en el informe, sólo se debe cambiar la estructura/modelo de la red neuronal.
 Para esto, se deben cambiar los parámetros según sea necesario:
+
 Modelo para una red de una capa oculta y 10 neuronas ocultas, con función de activación ReLU o Tanh (cambiar el parámetro nn.ReLU() por nn.Tanh() en el código para cambiar la función de activación)
 model = nn.Sequential(
           nn.Linear(64, 10),
