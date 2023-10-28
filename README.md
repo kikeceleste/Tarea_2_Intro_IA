@@ -1,6 +1,6 @@
-# Tarea_2_Intro_IA
-Tarea 2: Redes Neuronales, Introducción a la Inteligencia Aritificial - COM4402
-Cristopher Acevedo Guajardo
+# Tarea_2_Intro_IA <br>
+Tarea 2: Redes Neuronales, Introducción a la Inteligencia Aritificial - COM4402 <br>
+Cristopher Acevedo Guajardo <br>
 
 Para utilizar el código y verificar los resultados que fueron presentados en el informe, sólo se debe cambiar la estructura/modelo de la red neuronal.
 Para esto, se deben cambiar los parámetros según sea necesario:
