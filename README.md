@@ -1,6 +1,6 @@
 # Tarea_2_Intro_IA
 
-Tarea 2: Redes Neuronales, Introducción a la Inteligencia Aritificial - COM4402
+Tarea 2: Redes Neuronales, Introducción a la Inteligencia Aritificial - COM4402, Universidad de O'Higgins
 
 Cristopher Acevedo Guajardo
 
