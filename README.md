@@ -8,6 +8,7 @@ Para utilizar el código y verificar los resultados que fueron presentados en el
 Para esto, se deben cambiar los parámetros según sea necesario:
 
 Modelo para una red de una capa oculta y 10 neuronas ocultas, con función de activación ReLU o Tanh (cambiar el parámetro nn.ReLU() por nn.Tanh() en el código para cambiar la función de activación)
+
 model = nn.Sequential(
           nn.Linear(64, 10),
           nn.ReLU(),
@@ -15,6 +16,7 @@ model = nn.Sequential(
         )
         
 Modelo para una red de una capa oculta y 40 neuronas ocultas, con función de activación ReLU o Tanh
+
 model = nn.Sequential(
           nn.Linear(64, 40),
           nn.ReLU(),
@@ -22,6 +24,7 @@ model = nn.Sequential(
         )
         
 Modelo de una red de dos capas ocultas y 10 neuronas ocultas, con función de activación ReLU o Tanh
+
 model = nn.Sequential(
           nn.Linear(64, 10),
           nn.ReLU(),
@@ -31,6 +34,7 @@ model = nn.Sequential(
         )
         
 Modelo de una red de dos capas ocultas y 40 neuronas ocultas, con función de activación ReLU o Tanh
+
 model = nn.Sequential(
           nn.Linear(64, 40),
           nn.ReLU(),
